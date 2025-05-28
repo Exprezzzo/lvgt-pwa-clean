@@ -15,11 +15,14 @@
     "@types/node": "^22.15.23",
     "@types/react": "^19.1.6",
     "add": "^2.0.6",
+    "autoprefixer": "^10.4.21",
     "commit": "^0.0.4",
     "git": "^0.1.5",
     "package-lock.json": "^1.0.0",
     "package.json": "^2.0.1",
+    "postcss": "^8.5.3",
     "push": "^0.1.1",
+    "tailwindcss": "^4.1.7",
     "typescript": "^5.8.3"
   }
 }
